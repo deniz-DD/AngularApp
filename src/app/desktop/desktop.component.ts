@@ -30,7 +30,7 @@ export class DesktopComponent {
       this.servers.push(this.serName);
 
     }else{
-      this.serverC ="The Server has no name yet."
+      this.serverC ="The Server has name due to some problems in the code."
     }
     
   }
